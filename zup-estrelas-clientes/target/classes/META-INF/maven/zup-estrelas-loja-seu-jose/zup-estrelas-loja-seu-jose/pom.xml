@@ -2,11 +2,11 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>zup-estrelas-cliente</groupId>
-	<artifactId>zup-estrelas-clientes</artifactId>
+	<groupId>zup-estrelas-loja-seu-jose</groupId>
+	<artifactId>zup-estrelas-loja-seu-jose</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zup-estrelas-clientes</name>
-	<description>CRUD DE Clientes</description>
+	<name>zup-estrelas-loja-seu-jose</name>
+	<description>Estoque de Peças e gerenciamento de vendas</description>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
@@ -32,5 +32,7 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>8.0.21</version>
 		</dependency>
+
 	</dependencies>
+
 </project>
